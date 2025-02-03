@@ -539,7 +539,7 @@ section {
 }
 
 .skills-column:nth-child(1) .progress:nth-child(3) .bar span {
-    width: 65%;
+    width: 10%;
 }
 
 .skills-column:nth-child(1) .progress:nth-child(4) .bar span {
